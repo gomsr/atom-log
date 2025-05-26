@@ -3,7 +3,7 @@ module github.com/gomsr/atom-log
 go 1.23.1
 
 require (
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/gomsr/atom-zap v0.0.3
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/sdk v1.34.0
